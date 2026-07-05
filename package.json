@@ -1,0 +1,8 @@
+{
+  "name": "frogbot-fix-repro-npm",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "minimatch": "3.0.2"
+  }
+}

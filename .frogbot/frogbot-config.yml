@@ -1,0 +1,9 @@
+- params:
+    git:
+      branches:
+        - main
+      repoName: "frogbot-fix-repro-npm"
+    scan:
+      projects:
+        - workingDirs:
+            - .
